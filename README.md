@@ -9,3 +9,7 @@ https://optuna.readthedocs.io/en/stable/index.html
 Optuna example:
 
 https://github.com/optuna/optuna-examples
+
+
+## Modohiyaiku (Faster pytorch skill)
+CV2 pytorch 一些常用包的優化速度指令
