@@ -11,5 +11,9 @@ Optuna example:
 https://github.com/optuna/optuna-examples
 
 
-## Modohiyaiku (Faster pytorch skill)
-CV2 pytorch 一些常用包的優化速度指令
+## Modohiyaiku (Faster and Faster)
+就是一些寫code或是用code的技巧都放這
+### CV2 
+1. 從BGR轉RGB就直接矩陣倒轉就好
+### pytorch
+1. pytorch的dataloader可以使用pin_memory的指令合併
